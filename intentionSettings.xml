@@ -1,0 +1,9 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Python/Convert triple-quoted string to single-quoted string" />
+    <ignoreAction name="SQL/Quote identifier" />
+    <ignoreAction name="Database/Run query in console" />
+    <ignoreAction name="Language Injection/Edit Injected Fragment" />
+    <ignoreAction name="Python/Convert format operator usage to str.format method call" />
+  </component>
+</application>
