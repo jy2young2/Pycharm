@@ -7,6 +7,7 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="ddd" type="PLAIN_TEXT" />
       <mapping pattern="krbot" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping pattern="clean_message" type="Python" />
     </extensionMap>
   </component>
