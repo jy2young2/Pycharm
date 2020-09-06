@@ -3,12 +3,12 @@
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="data" type="JSON" />
-      <mapping pattern="jpbot" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="ddd" type="PLAIN_TEXT" />
-      <mapping pattern="BfxRest" type="PLAIN_TEXT" />
       <mapping pattern="BfxWebsocket" type="PLAIN_TEXT" />
+      <mapping pattern="jpbot" type="PLAIN_TEXT" />
+      <mapping pattern="BfxRest" type="PLAIN_TEXT" />
       <mapping pattern="krbot" type="PLAIN_TEXT" />
+      <mapping pattern="ddd" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping pattern="clean_message" type="Python" />
     </extensionMap>
